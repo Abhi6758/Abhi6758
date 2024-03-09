@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Abhishek Gupta
+- 👋 Hi, I’m Anjali Gupta
 - 👀 I’m interested in business
-- 🌱 I’m currently learning business inteligebce
+- 🌱 I’m currently data science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 7380444321
+- 📫 How to reach me 9580193894
 
 <!---
 Abhi6758/Abhi6758 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
